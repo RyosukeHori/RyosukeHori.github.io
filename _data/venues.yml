@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Conference":
+  color: "#009f36" # Dark blue
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Jounal":
+  color: # Light blue
 
-"Vision":
-  color: "#009f36"
+"Domestic Conf.":
+  color: "#9f3600" # Dark Red
+
+"Journal (Domestic)":
+  color: "#9f3600" # Red

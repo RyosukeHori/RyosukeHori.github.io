@@ -18,7 +18,8 @@
             {% if site.data.venues[entry.abbr].url %}
               <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
             {% else %}
-              <div>{{- entry.abbr -}}</div>
+              {% comment %} <div>{{- entry.abbr -}}</div> {% endcomment %}
+              <a href="{{}}">{{ entry.abbr }}</a>
             {% endif %}
           </abbr>
         {% else %}
@@ -151,7 +152,7 @@
     {% if entry.type == 'article' %}
       {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
     {% elsif proceedings contains entry.type %}
-      {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
+      {% capture entrytype %}<em>{{ entry.booktitle }}</em>{% endcapture %}
     {% elsif thesis contains entry.type %}
       {% capture entrytype %}<em>{{ entry.school }}</em>{% endcapture %}
     {% else %}
