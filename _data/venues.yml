@@ -1,8 +1,44 @@
-"Conference":
+# Conferences (green)
+"CVPR":
   color: "#009f36"
 
-"Journal":
-  color:
+"CVPRW":
+  color: "#009f36"
 
-"Domestic Conf.":
+"IEEE VR":
+  color: "#009f36"
+
+"CHI":
+  color: "#009f36"
+
+"MMSports":
+  color: "#009f36"
+
+"VISIGRAPP":
+  color: "#009f36"
+
+"ICIP":
+  color: "#009f36"
+
+# Journals (blue)
+"TVCG":
+  color: "#00369f"
+
+"IEEE Access":
+  color: "#00369f"
+
+"J. Imaging":
+  color: "#00369f"
+
+# Domestic Conferences (red)
+"MIRU":
+  color: "#9f3600"
+
+"VRSJ":
+  color: "#9f3600"
+
+"CVIM":
+  color: "#9f3600"
+
+"CCC":
   color: "#9f3600"
