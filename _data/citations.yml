@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-23'
 papers:
   VMIR3zwAAAAJ:2osOgNQ5qMEC:
     citations: 5
@@ -13,6 +13,10 @@ papers:
     citations: 0
     title: Human Mesh Reconstruction of Sports Players with Multiple Dynamic Cameras
     year: '2025'
+  VMIR3zwAAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: 'Ground Reaction Inertial Poser: Physics-based Human Motion Capture from Sparse IMUs and Insole Pressure Sensors'
+    year: '2026'
   VMIR3zwAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: Effect of sliding paths on wear and friction of polytetrafluoroethylene composites
@@ -34,6 +38,6 @@ papers:
     title: "Silhouette-based synthetic data generation for 3D human pose estimation with a single wrist-mounted 360\xB0 camera"
     year: '2021'
   VMIR3zwAAAAJ:zYLM7Y9cAGgC:
-    citations: 0
+    citations: 1
     title: 'Gait Inertial Poser (GIP): Gait-Aware Human Motion Capture Using Shoe-Embedded IMUs'
     year: '2025'
