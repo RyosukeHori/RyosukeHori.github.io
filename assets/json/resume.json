@@ -1,14 +1,12 @@
 {
   "basics": {
-    "name": "Ryosue Hori",
-    "label": "Ph.D. Student at Keio University",
+    "name": "Ryosuke Hori",
+    "label": "Researcher at National Institute of Advanced Industrial Science and Technology (AIST)",
     "image": "",
-    "email": "hori-rysk@keio.jp",
+    "email": "hori-rysk-aist@aist.go.jp",
     "url": "https://ryosukehori.github.io/",
     "location": {
-      "address": "3-14-1 Hiyoshi, Kohoku-ku",
-      "postalCode": "223-0061",
-      "city": "Yokohama",
+      "city": "Tokyo",
       "countryCode": "Japan"
     }
   },
@@ -53,6 +51,13 @@
       "position": "National Institute of Advanced Industrial Science and Technology (AIST)",
       "url": "https://www.aist.go.jp/index_en.html",
       "startDate": "2022-12",
+      "endDate": "2026-03"
+    },
+    {
+      "name": "Researcher at the Digital Human Research Team",
+      "position": "National Institute of Advanced Industrial Science and Technology (AIST)",
+      "url": "https://www.aist.go.jp/index_en.html",
+      "startDate": "2026-04",
       "endDate": "Present"
     }
   ],
@@ -64,7 +69,7 @@
       "area": "Information and Computer Science",
       "studyType": "Ph.D. in Engineering",
       "startDate": "2022-09-22",
-      "endDate": "Present"
+      "endDate": "2026-03-23"
     },
     {
       "institution": "Keio University, Yokohama, Japan",
