@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-06-05'
 papers:
   VMIR3zwAAAAJ:2osOgNQ5qMEC:
-    citations: 5
+    citations: 6
     title: 'EventPointMesh: human mesh recovery solely from event point clouds'
     year: '2024'
   VMIR3zwAAAAJ:9yKSN-GCB0IC:
@@ -10,7 +10,7 @@ papers:
     title: "Future prediction of shuttlecock trajectory in badminton using player\u2019s information"
     year: '2023'
   VMIR3zwAAAAJ:IjCSPb-OGe4C:
-    citations: 0
+    citations: 1
     title: Human Mesh Reconstruction of Sports Players with Multiple Dynamic Cameras
     year: '2025'
   VMIR3zwAAAAJ:Tyk-4Ss8FVUC:
@@ -21,6 +21,14 @@ papers:
     citations: 0
     title: Effect of sliding paths on wear and friction of polytetrafluoroethylene composites
     year: '2025'
+  VMIR3zwAAAAJ:W7OEmFMy1HYC:
+    citations: 0
+    title: 'Map-Mono-Ego: Map-Grounded Global Human Pose Estimation from Monocular Egocentric Video'
+    year: '2026'
+  VMIR3zwAAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: Real-Time Dynamic Digital Twin Generation Using Multiple First-Person Views
+    year: '2026'
   VMIR3zwAAAAJ:d1gkVwhDpl0C:
     citations: 2
     title: Prediction of Shuttle Trajectory in Badminton Using Player's Position.
